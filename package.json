@@ -1,0 +1,23 @@
+{
+  "name": "projeto18-freela-back-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmoraesaraujo/projeto18-freela-back-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmoraesaraujo/projeto18-freela-back-async/issues"
+  },
+  "homepage": "https://github.com/gabrielmoraesaraujo/projeto18-freela-back-async#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
